@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/botrepo/static/css/main.4c67b4c5.css",
+    "main.js": "/botrepo/static/js/main.0848cab2.js",
+    "index.html": "/botrepo/index.html",
+    "main.4c67b4c5.css.map": "/botrepo/static/css/main.4c67b4c5.css.map",
+    "main.0848cab2.js.map": "/botrepo/static/js/main.0848cab2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c67b4c5.css",
+    "static/js/main.0848cab2.js"
+  ]
+}
